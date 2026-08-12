@@ -1,6 +1,6 @@
 # GeneNetPred
 
-Code accompanying the manuscript *"GeneNetPred: A Graph Neural Network for Predicting Cancer Gene Dependency from Multi-Omics Data"*, submitted to *Briefings in Bioinformatics*.
+Code accompanying the manuscript "GeneNetPred: A Graph Neural Network for Predicting Cancer Gene Dependency from Multi-Omics Data", prepared for submission to Briefings in Bioinformatics.
 
 GeneNetPred is a graph neural network that predicts cancer gene dependency scores by integrating gene expression, somatic mutation, copy number variation, pretrained gene2vec embeddings, and protein-protein interaction structure through a co-dependency-gated GraphSAGE architecture with optional Performer-based attention.
 
