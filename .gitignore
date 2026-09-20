@@ -1,0 +1,7 @@
+data/
+results_v8/
+figures_v8/
+checkpoints_v8/
+logs/
+__pycache__/
+*.pyc
