@@ -68,7 +68,7 @@ else:
 # CONFIGURATION
 # =============================================================================
 
-DRIVE_FOLDER   = "/home/choudhury-t15/GeneNetPred"
+DRIVE_FOLDER   = "./GeneNetPred"
 OUTPUT_DIR     = f"{DRIVE_FOLDER}/results_v8"
 FIGURES_DIR    = f"{DRIVE_FOLDER}/figures_v8"
 LOGS_DIR       = f"{DRIVE_FOLDER}/logs"
