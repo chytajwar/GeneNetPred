@@ -8,7 +8,7 @@ This repository also contains fair, matched-condition reimplementations of two b
 
 ## What This Repository Contains
 
-- `genenetpred.py`: full training and evaluation pipeline, including GeneNetPred (four architecture variants plus teacher-student distillation), DepGPS (four variants, each with and without cdNS, for eight runs), DeepDEP (two variants), hyperparameter sweeps, ten-seed multi-seed evaluation, an ablation study, and all figure generation.
+- `genenetpred.py`: full training and evaluation pipeline, including GeneNetPred (four architecture variants plus teacher-student distillation), DepGPS (four variants, each with and without Context-dependent nonsynonymous-to-synonymous (cdNS), for eight runs), DeepDEP (two variants), hyperparameter sweeps, ten-seed multi-seed evaluation, an ablation study, and all figure generation.
 - `comparison_table.csv`: single-split comparison results across all evaluated architectures, informing Table 2 of the manuscript.
 - `requirements.txt`: Python package dependencies.
 
