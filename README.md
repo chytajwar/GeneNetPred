@@ -18,10 +18,10 @@ This repository does not include raw data files, since they are subject to third
 
 | Dataset | Source |
 |---|---|
-| CRISPR-Cas9 gene dependency scores | DepMap Portal, release 26Q1 |
-| Gene expression, somatic mutation, copy number variation | DepMap Portal (CCLE) |
-| Protein-protein interaction network | BioGRID, version 5.0.256 |
-| Gene2vec embeddings | github.com/jingcheng-du/Gene2Vec |
+| CRISPR-Cas9 gene dependency scores | [DepMap Portal](https://depmap.org/portal/data_page/?tab=allData), release 26Q1 |
+| Gene expression, somatic mutation, copy number variation | [DepMap Portal](https://depmap.org/portal/data_page/?tab=allData) (CCLE) |
+| Protein-protein interaction network | [BioGRID](https://downloads.thebiogrid.org), version 5.0.256 |
+| Gene2vec embeddings | [github.com/jingcheng-du/Gene2Vec](https://github.com/jingcheng-du/Gene2Vec) |
 | Context-dependent nonsynonymous-to-synonymous (cdNS) mutation scores | Supplementary materials of Han et al., *Genome Medicine*, 2024 |
 | Cell line metadata | DepMap Model.csv |
 
